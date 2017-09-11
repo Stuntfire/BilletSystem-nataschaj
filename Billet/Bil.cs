@@ -8,6 +8,9 @@ namespace Billet
 {
     public class Bil
     {
+        /// <summary>
+        /// Du må se at få lavet resten af opgaven :-)
+        /// </summary>
         public string Nummerplade { get; set; }
         public DateTime Dato { get; set; }
 
