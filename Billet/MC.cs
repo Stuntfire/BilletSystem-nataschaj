@@ -9,7 +9,7 @@ namespace Billet
     public class MC
     {
         public string Nummerplade { get; set; }
-        public DateTime dato { get; set; }
+        public DateTime dato { get; set; } //Husk at starte med stort bogstav.
 
         public int Pris()
         {
